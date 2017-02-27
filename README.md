@@ -1,5 +1,7 @@
 # gorotatewriter
 
+Based on https://stackoverflow.com/a/28797984
+
 Sorry for poor english.
 This file can rotate log file by time.Duration.
 Checking for rotating performing at any write operation, so it can have high cost for performance
