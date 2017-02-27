@@ -15,6 +15,7 @@ import (
 	"os"
 	"time"
 	"fmt"
+	"./rotatewriter"
 )
 
 func main(){
